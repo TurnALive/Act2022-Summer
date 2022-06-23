@@ -1,22 +1,8 @@
-# 夏季运动会（？
+MCDReforged Plugin Template
+-----
 
-在这个现实中窝在家里不愿出去的大夏天，让游戏里的我们办一场运动会吧！
+A template for MCDReforged (>=2.x) plugin
 
-## 设定（点子）
+Try `python -m mcdreforged pack` to generate the packed plugin!
 
-在开始比赛时赋予玩家饥饿效果
-
-以*某种方式*补给玩家食物，却不能唾手可得（
-
-    1. 可以做成那种在路上捡道具的形式
-    2. 刚开始给饱食度高的食物，后期逐渐劣化
-
-）
-
-规定时间吃了指定的食物，会有加成
-
-在这种情况下开展一个运动会
-
-饥饿造成项目完成时的速度差别
-
-在尽量不饿死的前提下尽快到达终点吧！
+This template is under the CC0 license. Feel free to use it!
